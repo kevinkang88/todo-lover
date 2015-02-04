@@ -1,0 +1,13 @@
+{
+  "name":"todo-lover",
+  "version": "0.0.0",
+  "author": "kk",
+  "main":"server.js",
+  "dependencies":{
+    "express": "latest",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "body-parser": "latest",
+    "method-override": "latest"
+  }
+}
